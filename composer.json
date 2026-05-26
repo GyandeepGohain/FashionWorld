@@ -1,0 +1,14 @@
+{
+    "name": "fashionworld/ecommerce",
+    "description": "Ecommerce website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "GyandeepGohain",
+            "email": "gyandeepgohain9@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.1"
+    }
+}
